@@ -13,13 +13,13 @@
     }
     .popular hr{
     width: 200px;
-    height: 5px;
+    height: 6px;
     border-radius: 10px;
     background: #252525;
     }
     .popular-item{
         margin-top: 30px;
         display: flex;
-        gap: 28px;
-        overflow: hidden;
+        gap: 30px;
+        /* overflow: hidden; */
     }

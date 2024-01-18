@@ -3,7 +3,7 @@
     margin-right: 0px;
     justify-content: space-around ;
     padding: 15px;
-    box-shadow: 1px 3px 2px black; 
+    box-shadow: 1px 3px -2px black; 
 }
 
 .nav-logo {
@@ -14,7 +14,7 @@
 
 .nav-logo p {
     color: #171717;
-    font-size: 22px;
+    font-size: 38px;
     font-weight: 600;
 }
 

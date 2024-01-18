@@ -1,11 +1,12 @@
 .offers {
-  width: 80.5%;
-  overflow: hidden;
-  height: 80vh;
+  width: 65%;
+  /* overflow: hidden; */
+  height: 60vh;
   display: flex;
-  margin-top: 40px;
+  margin: auto;
+  margin-top: 80px;
   padding: 0px 140px;
-  margin-bottom: 80px;
+  margin-bottom: 150px;
   background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
 }
 .offers-left {
@@ -40,6 +41,6 @@
   flex: 1;
   display: flex;
   align-items: center;
-  justify-content: 50px;
+  justify-content: flex-end;
   padding-top: 50px;
 }
