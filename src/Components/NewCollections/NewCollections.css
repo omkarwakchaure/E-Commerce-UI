@@ -1,10 +1,10 @@
     .new-collections{
-    overflow: hidden;
+    /* overflow: hidden; */
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    height: 90vh;
+    /* height: 90vh; */
     }
     .new-collections h1{
     margin-top: 10px;
@@ -24,6 +24,6 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
         margin-top: 50px;
         gap: 30px;
-        overflow: hidden;
+        /* overflow: hidden; */
     }
      

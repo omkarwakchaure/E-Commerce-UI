@@ -2,8 +2,8 @@
 .shopcategory-banner {
   /* overflow: hidden; */
   display: block;
-  width: 100%;
-   
+  width: 82%;
+  margin: 30px auto;
    
 }
 
@@ -29,7 +29,7 @@
 }
 
 .shopcategory-products {
-  /* margin: px 150px; */
+  margin:  20px 150px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   row-gap: 80px;
